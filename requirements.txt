@@ -1,5 +1,6 @@
 tqdm>=4.67.1
+ipykernel>=6.29.5
 torch>=2.6.0
 datasets>=3.4.1
-trasnformers>=4.48.3
+transformers>=4.48.3
 liger-kernel>=0.5.5
